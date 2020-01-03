@@ -5,6 +5,7 @@
 This application features the ability to simulate traffic at a virtual intersection.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703575-8d75bc80-2d92-11ea-97ba-7e2913b9b2ad.png)
 
 ## Application Compiling
 
